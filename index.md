@@ -9,3 +9,4 @@
 
 
 
+[Mehr Details zur Liste](details.md)
